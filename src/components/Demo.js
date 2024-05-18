@@ -49,23 +49,14 @@ const Demo = () => {
       const options = {
         method: 'POST',
         headers: {
-<<<<<<< HEAD
           Authorization: 'Bearer vapi',
-=======
-          Authorization: 'Bearer 7ef675d9-946d-4e8d-9fbe-3aa3d40b1e06',
->>>>>>> d6d3626 (Add folder to repository)
           'Content-Type': 'application/json',
         },
         body: JSON.stringify({
           assistantId: '611681d1-da5e-4c48-b47e-1b01f380bc5e',
           phoneNumber: {
-<<<<<<< HEAD
             twilioAuthToken: '',
             twilioAccountSid: '',
-=======
-            twilioAuthToken: '43b0398bae4dc7797690042b7a66ed00',
-            twilioAccountSid: 'AC94789970dd124648ee6211a0fad08ab2',
->>>>>>> d6d3626 (Add folder to repository)
             twilioPhoneNumber: '+19163892429',
           },
           customer: {
