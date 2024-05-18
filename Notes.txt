@@ -1,0 +1,11 @@
+Smart Screen
+
+Glassdoor reskin
+built on ai phone stuff
+so we make it so when people go to the job listing they apply and then they get called
+
+maybe make a way to do this on linkedin
+then have people apply on linkedin or their own portal - then it sends a phone call within the next hour or so to do a prescreen
+
+ask is this now a good time to call?
+then when it does the outbound... screen and have it run a sequence - you can see all your applications inside smartscreen
